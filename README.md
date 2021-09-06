@@ -1,17 +1,23 @@
 ### Hi there, I'm Sammie - aka certified 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iam_certified1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<img align="left" src="https://komarev.com/ghpvc/?username=certified84&label=Profile%20views&color=0e75b6&style=flat" alt="Sammie_kt" />
 
-## I'm just a guy trying to be a dev
+[![Twitter Follow](https://img.shields.io/twitter/follow/iam_certified1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcertified84&screen_name=iam_certified1)
 
-- 🌱 I’m currently learning everything kotlin, android
+## Few things about me
+
+- ⚡ I'm just trying to be a dev
+- 🌱 I’m currently learning everything kotlin, android, jetpack compose
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects, obtain the AAD certificate and eventually land dev roles
-- ⚡ Fun fact: I love to play video games and dancing
+- 🥅 2021 Goals: 
+  - Contribute more to Open Source projects 
+  - obtain the AAD certificate and 
+  - Eventually land android dev roles
+- ⚡ Fun fact: I love dancing and playing video games
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing.vercel.app/api/spotify-playing?username=Sammie" alt="Sammie Spotify Playing" width="350" />](https://open.spotify.com/user/qbzvh5m6max512um1rx16bf18) -->
 
 ### Connect with me:
 
@@ -78,12 +84,19 @@
 
 <!-- </details> -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details> -->
+<!--   <summary>:zap: Most used languages</summary> -->
 
-  <img align="left" alt="Certified's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=certified84&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=certified84&show_icons=true&hide_border=true" alt="Certified's most used languages"  />
 
-</details>
+<!-- </details> -->
+
+<!-- <details> -->
+<!--   <summary>:zap: GitHub Stats</summary> -->
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=certified84&show_icons=true&locale=en" alt="Certified's GitHub Stats" />
+  
+<!-- </details> -->
 
 [twitter]: https://twitter.com/iam_certified1
 [linkedin]: https://www.linkedin.com/in/samson-achiaga-7b3684159/
