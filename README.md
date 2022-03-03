@@ -9,9 +9,9 @@
 - ⚡ I'm just trying to be a dev
 - 🌱 I’m currently learning everything kotlin, android, jetpack compose
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
   - Contribute more to Open Source projects 
-  - obtain the AAD certificate and 
+  - Obtain the AAD certificate and 
   - Eventually land android dev roles
 - ⚡ Fun fact: I love dancing and playing video games
 
