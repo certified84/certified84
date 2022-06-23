@@ -1,4 +1,4 @@
-### Hi there, I'm Sammie - aka certified 👋
+### Hi there, I'm Sammie 👋
 
 <img align="left" src="https://komarev.com/ghpvc/?username=certified84&label=Profile%20views&color=0e75b6&style=flat" alt="Sammie_kt" />
 
