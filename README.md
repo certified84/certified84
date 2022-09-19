@@ -1,6 +1,6 @@
-### Hi there, I'm Sammie 👋
+### Hi there, I'm Samson 👋
 
-<img align="left" src="https://komarev.com/ghpvc/?username=certified84&label=Profile%20views&color=0e75b6&style=flat" alt="Sammie_kt" />
+<!-- <img align="left" src="https://komarev.com/ghpvc/?username=certified84&label=Profile%20views&color=0e75b6&style=flat" alt="Sammie_kt" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iam_certified1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcertified84&screen_name=iam_certified1)
 
@@ -13,7 +13,7 @@
   - Contribute more to Open Source projects 
   - Obtain the AAD certificate and 
   - Eventually land android dev roles
-- ⚡ Fun fact: I love dancing and playing video games
+- ⚡ Fun fact: I love dancing and playing video games -->
 
 <!-- ### Spotify Playing 🎧
 
